@@ -775,10 +775,10 @@ text-align: right;
     top: -10%;
     font-weight: 500;
     left: 0;
-    font-family: "Silk Serif";
+    font-family: "silk serif";
 }
 #footer-text h2 span {
-    font-family: "Silk Serif";
+    font-family: "silk serif";
     opacity: 0;
     -webkit-text-stroke: 1px #fff;
     color: transparent;
@@ -1372,7 +1372,7 @@ text-align: right;
         left: 1%;
         top: -65%;
         font-size: 4.2vw;
-        font-family: "Silk Serif";
+        font-family: "silk serif";
         font-style: italic;
         /* background-color: red; */
     }
